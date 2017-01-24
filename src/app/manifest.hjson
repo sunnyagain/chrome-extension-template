@@ -9,7 +9,7 @@
 
 	// https://developer.chrome.com/extensions/manifest/name#name
 	// maximum of 45 characters
-	"name": "Chrome extension template"
+	"name": "WebRTC"
 
 	// https://developer.chrome.com/extensions/manifest/version
 	"version": "0.0.1"
@@ -21,7 +21,7 @@
 
 	// https://developer.chrome.com/extensions/manifest/description
 	// maximum of 132 characters
-	"description": "Chrome extension template structure"
+	"description": "WebRTC structure"
 
 	// https://developer.chrome.com/extensions/manifest/icons
 	"icons": {
@@ -202,7 +202,7 @@
 		// "certificateProvider"
 		// "clipboardRead"
 		// "clipboardWrite"
-		// "contentSettings"
+		 "contentSettings",
 		// "contextMenus"
 		// "cookies"
 		// "debugger"
